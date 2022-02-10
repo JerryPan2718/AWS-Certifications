@@ -48,5 +48,9 @@ e.g. Thumbnail creation
 - Serverless Framework aims to ease the pain of creating, deploying, managing, and debugging lambda functions.\
 - It integrates well with CI/CD tools
 - It has CloudFormation support so your entire stack can be deployed using this Framework
-- 
 
+### VPC: Virtual Private Clouds
+- We can launch lambda in VPC to access EC2 adn RDS instances.
+
+### AWS Lambda Pricing
+- https://aws.amazon.com/lambda/pricing/
